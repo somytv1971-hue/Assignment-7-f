@@ -7,7 +7,7 @@ export default function Footer() {
             <h2 style={{ fontFamily: 'Playfair Display, serif', fontSize: '1.75rem', fontWeight: 700 }} className="mb-2">
               KeenKeeper
             </h2>
-            <p className="text-white/60 text-sm max-w-xs leading-relaxed mx-auto">
+            <p className="text-white/60 ">
               Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
             </p>
           </div>
@@ -36,7 +36,7 @@ export default function Footer() {
         </div>
         <div className="border-t border-white/20 pt-6 flex flex-col sm:flex-row justify-between items-center gap-2">
           <p className="text-white/50 text-xs">© 2026 KeenKeeper. All rights reserved.</p>
-          <div className="gap-11 space-x-4 flex text-white/50 text-xs">
+          <div className="gap-11 space-x-3 flex text-white/50 text-xs">
           <button>Privacy Policy</button>
           <button> Terms of Service</button>
           <button>Cookies</button>
