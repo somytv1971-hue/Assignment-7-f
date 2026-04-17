@@ -8,7 +8,7 @@ export default function Footer() {
               KeenKeeper
             </h2>
             <p className="text-white/60 ">
-              Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
+              Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most...
             </p>
           </div>
           <div className="flex gap-3 justify-center">
