@@ -6,7 +6,9 @@
     "email": "sarah.mitchell@gmail.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["work"],
+    "tags": [
+      "WORK"
+    ],
     "bio": "Met during freshman orientation. We've traveled to 5 countries together and she's the first person I call when something big happens.",
     "goal": 14,
     "next_due_date": "2025-07-15"
@@ -18,7 +20,9 @@
     "email": "james.okafor@outlook.com",
     "days_since_contact": 6,
     "status": "on-track",
-    "tags": ["family"],
+    "tags": [
+      "FAMILY"
+    ],
     "bio": "Senior engineer who mentored me in my first job. We grab coffee every few weeks and he always has great career advice.",
     "goal": 14,
     "next_due_date": "2025-08-01"
@@ -30,7 +34,9 @@
     "email": "priya.sharma@yahoo.com",
     "days_since_contact": 12,
     "status": "almost due",
-    "tags": ["WORK"],
+    "tags": [
+      "WORK"
+    ],
     "bio": "Grew up three houses down. Our families had Sunday dinners together for years. Now we're both in different cities but stay close.",
     "goal": 10,
     "next_due_date": "2025-07-22"
@@ -42,7 +48,10 @@
     "email": "marcus.webb@proton.me",
     "days_since_contact": 31,
     "status": "overdue",
-    "tags": ["HOBBY", "TRAVEL"],
+    "tags": [
+      "HOBBY",
+      "TRAVEL"
+    ],
     "bio": "Workout buddy from college who's now training for marathons. Always motivating and we push each other to be better.",
     "goal": 21,
     "next_due_date": "2025-07-10"
@@ -54,7 +63,9 @@
     "email": "elena.vasquez@gmail.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": [ "WORK"],
+    "tags": [
+      "WORK"
+    ],
     "bio": "Fellow bookworm and co-founder of our little book club. We share recommendations constantly and have matching annotated copies of Middlemarch.",
     "goal": 7,
     "next_due_date": "2025-08-05"
@@ -66,7 +77,9 @@
     "email": "david.chen@company.io",
     "days_since_contact": 9,
     "status": "almost due",
-    "tags": ["FAMILY"],
+    "tags": [
+      "FAMILY"
+    ],
     "bio": "Co-founder of a startup I almost joined. We stayed connected and bounce ideas off each other regularly. Sharp thinker.",
     "goal": 10,
     "next_due_date": "2025-07-25"
@@ -78,7 +91,9 @@
     "email": "aisha.johnson@gmail.com",
     "days_since_contact": 45,
     "status": "overdue",
-    "tags": ["WORK"],
+    "tags": [
+      "WORK"
+    ],
     "bio": "Best friend since middle school. Life took us to different coasts but some friendships just never fade. Need to catch up badly.",
     "goal": 30,
     "next_due_date": "2025-07-05"
@@ -90,7 +105,10 @@
     "email": "tom.eriksson@nordic.se",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": ["hiking", "adventure"],
+    "tags": [
+      "hiking",
+      "adventure"
+    ],
     "bio": "Met on a solo trip through Scandinavia. We've done two more trips since. The kind of friend who makes any adventure better.",
     "goal": 14,
     "next_due_date": "2025-08-10"
