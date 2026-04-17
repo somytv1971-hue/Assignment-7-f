@@ -90,7 +90,7 @@ export default function FriendDetailPage() {
                 <AlarmClock size={15} /> Snooze 2 Weeks
               </button>
               <button className="w-full flex items-center gap-2.5 px-4 py-3 rounded-xl border border-gray-200 text-gray-600 hover:bg-gray-50 transition-colors text-sm font-medium">
-                <Archive items-center size={15} /> Archive
+                <Archive size={15} /> Archive
               </button>
               <button className="w-full flex items-center gap-2.5 px-4 py-3 rounded-xl border border-red-200 text-red-600 bg-red-50 hover:bg-red-100 transition-colors text-sm font-medium">
                 <Trash2 size={15} /> Delete
@@ -123,7 +123,7 @@ export default function FriendDetailPage() {
                 </button>
               </div>
               <p className="text-sm text-gray-500">
-                Contact every <span className="font-semibold text-gray-800">{friend.goal} days</span>. 
+                Contact every <span className="font-semibold text-gray-800">{friend.goal} days</span>.
                 You've been in contact {friend.days_since_contact} days ago.
               </p>
               <div className="mt-3 h-2 bg-gray-100 rounded-full overflow-hidden">

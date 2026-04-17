@@ -101,7 +101,7 @@ export default function StatsPage() {
               <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-5">
                 <p className="text-sm text-emerald-700 font-medium mb-1">Keep it up! 🎉</p>
                 <p className="text-xs text-emerald-600">
-                  You've logged {total} interaction{total !== 1 ? 's' : ''} total. 
+                  You have logged {total} interaction{total !== 1 ? 's' : ''} total. 
                   Staying consistent is the key to lasting friendships.
                 </p>
               </div>
