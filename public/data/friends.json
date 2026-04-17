@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.mitchell@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Met during freshman orientation. We've traveled to 5 countries together and she's the first person I call when something big happens.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "James Okafor",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "james.okafor@outlook.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["family"],
+    "bio": "Senior engineer who mentored me in my first job. We grab coffee every few weeks and he always has great career advice.",
+    "goal": 14,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "priya.sharma@yahoo.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Grew up three houses down. Our families had Sunday dinners together for years. Now we're both in different cities but stay close.",
+    "goal": 10,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 4,
+    "name": "Marcus Webb",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "marcus.webb@proton.me",
+    "days_since_contact": 31,
+    "status": "overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Workout buddy from college who's now training for marathons. Always motivating and we push each other to be better.",
+    "goal": 21,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 5,
+    "name": "Elena Vasquez",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "elena.vasquez@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [ "WORK"],
+    "bio": "Fellow bookworm and co-founder of our little book club. We share recommendations constantly and have matching annotated copies of Middlemarch.",
+    "goal": 7,
+    "next_due_date": "2025-08-05"
+  },
+  {
+    "id": 6,
+    "name": "David Chen",
+    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "email": "david.chen@company.io",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["FAMILY"],
+    "bio": "Co-founder of a startup I almost joined. We stayed connected and bounce ideas off each other regularly. Sharp thinker.",
+    "goal": 10,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/89.jpg",
+    "email": "aisha.johnson@gmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["WORK"],
+    "bio": "Best friend since middle school. Life took us to different coasts but some friendships just never fade. Need to catch up badly.",
+    "goal": 30,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 8,
+    "name": "Tom Eriksson",
+    "picture": "https://randomuser.me/api/portraits/men/17.jpg",
+    "email": "tom.eriksson@nordic.se",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["hiking", "adventure"],
+    "bio": "Met on a solo trip through Scandinavia. We've done two more trips since. The kind of friend who makes any adventure better.",
+    "goal": 14,
+    "next_due_date": "2025-08-10"
+  }
+]
